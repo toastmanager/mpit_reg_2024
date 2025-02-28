@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/toastmanager/mpit_reg_2024_app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/toastmanager/mpit_reg_2024_backend.git
