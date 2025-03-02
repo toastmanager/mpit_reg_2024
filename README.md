@@ -2,6 +2,10 @@
 
 Приложение для афиша.якт
 
+| Главная | Моё | Поиск | Фильтры |
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- |
+| ![main_page](https://github.com/user-attachments/assets/9d8728da-cdf7-455f-9923-b45975d91c78) | ![personal_page](https://github.com/user-attachments/assets/d14dc631-f415-4346-b4e8-7eaf716c6f8b) |  ![search_page](https://github.com/user-attachments/assets/988e7fbf-59a4-441b-a494-0f73d55f4e08) |  ![search_page_filters](https://github.com/user-attachments/assets/090b8aa9-3c80-4d74-a518-7f2cdfb664de) |
+
 ## 🛠 Технологии
 
 ### Языки
